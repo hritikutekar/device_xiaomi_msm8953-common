@@ -53,20 +53,6 @@ vendor/bin/wcnss_filter
 vendor/lib/libbtnv.so
 vendor/lib64/libbtnv.so
 
-# Camera firmware
-vendor/firmware/cpp_firmware_v1_8_0.fw
-vendor/firmware/cpp_firmware_v1_5_0.fw
-vendor/firmware/cpp_firmware_v1_6_0.fw
-vendor/firmware/cpp_firmware_v1_2_0.fw
-vendor/firmware/cpp_firmware_v1_4_0.fw
-vendor/firmware/cpp_firmware_v1_1_1.fw
-vendor/firmware/cpp_firmware_v1_5_1.fw
-vendor/firmware/cpp_firmware_v1_12_0.fw
-vendor/firmware/cpp_firmware_v1_10_0.fw
-vendor/firmware/cpp_firmware_v1_5_2.fw
-vendor/firmware/cpp_firmware_v1_1_6.fw
-
-
 # CNE
 etc/cne/andsfCne.xml
 etc/cne/SwimConfig.xml
@@ -263,14 +249,6 @@ vendor/lib64/libsdm-diag.so
 -vendor/lib64/libsdm-disp-vndapis.so
 vendor/lib64/libsdmextension.so
 vendor/lib64/libtinyxml2_1.so
-
-# Graphics firmware
-vendor/firmware/a506_zap.b00
-vendor/firmware/a506_zap.b01
-vendor/firmware/a506_zap.b02
-vendor/firmware/a506_zap.mdt
-vendor/firmware/a530_pfp.fw
-vendor/firmware/a530_pm4.fw
 
 # Ipacm
 vendor/bin/ipacm-diag
